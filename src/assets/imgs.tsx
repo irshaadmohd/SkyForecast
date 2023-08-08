@@ -1,0 +1,1 @@
+export const imgs = 'https://w0.peakpx.com/wallpaper/995/49/HD-wallpaper-blur-background-blur-simple-background-background.jpg';
